@@ -1,5 +1,5 @@
 ## Hey 👋, I'm [Danila Kiselev](https://github.com/manifet/)
-[![Telegram Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](manifetmain@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manifetmain@gmail.com?)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manifet)
 
 ### About me
@@ -7,12 +7,12 @@
 Now I study at 🎓 Moscow Polytechnic University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and use them to solve real problems ✨ I am currently freelancing and looking for more experience in web development.
 
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/manifet/manifet/programmer.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/manifet/manifet/blob/main/programmer.gif" />
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/manifet).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/manfiet/manifet/issues)! I am happy to help.
 - 📫 &nbsp; How to reach me: manifetmain@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/manifet/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/manifet/manifet/blob/main/resume.pdf).
 
 
 ### Languages and Tools:

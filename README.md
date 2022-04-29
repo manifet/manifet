@@ -37,4 +37,4 @@ Now I study at 🎓 Moscow Polytechnic University 🏛. I'm a passionate learner
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 ### Github stats:
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=manifet&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manifet&hide=contribs,prs)

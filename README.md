@@ -10,7 +10,7 @@ Now I study at 🎓 Moscow Polytechnic University 🏛. I'm a passionate learner
 <img align="right" height="250" width="375" alt="" src="https://github.com/manifet/manifet/blob/main/programmer.gif" />
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/manifet).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/manfiet/manifet/issues)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/manifet/manifet/issues)! I am happy to help.
 - 📫 &nbsp; How to reach me: manifetmain@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/manifet/manifet/blob/main/resume.pdf).
 

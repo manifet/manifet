@@ -2,10 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manifetmain@gmail.com?)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/manifet)
 
-### About me
-
-Now I study at 🎓 Moscow Polytechnic University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and use them to solve real problems ✨ I am currently freelancing and looking for more experience in web development.
-
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/manifet/manifet/blob/main/programmer.gif" />
 
